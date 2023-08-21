@@ -1,3 +1,4 @@
 # New project
 
-This Project was created fromm local system
+This Project was created from local system
+Created by Arpita Vikhe.
